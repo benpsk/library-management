@@ -2,6 +2,7 @@
 
 Applied Technology - 
  - Spring MVC
+ - Servlet, JSP
  - JDBC
  - MySQL Databases
 
