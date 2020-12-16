@@ -1,5 +1,9 @@
 # Library-Management-System
 
+Applied Technology - 
+ - Spring MVC
+ - JDBC
+ - MySQL Databases
 
 This is a Sample of Library Management System using Java Servlet and MySQL database.
 
